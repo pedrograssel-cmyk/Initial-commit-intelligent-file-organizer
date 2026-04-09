@@ -131,4 +131,4 @@ Pillow
 
 **Pedro Paulo Rodrigues Grassel**  
 Electrical Engineering Undergraduate | Data Analysis & Automation  
-[LinkedIn](https://linkedin.com/in/seuperfil)
+[LinkedIn](https://linkedin.com/in/pedrograssel)
